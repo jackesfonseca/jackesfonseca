@@ -14,7 +14,7 @@
 
   - :school: I'm currently studing in ... University of Brasilia - FGA, Brasilia, Brazil
 - 🔭 I’m currently working as ... Help Desk
-- 🌱 I’m currently learning ... REACT
+- 🌱 I’m currently learning ... React, Docker, Flask, RPC
 - 👯 I’m looking to collaborate on ... Python, Javascript, Go
 - 💬 Ask me about ... What ever.... :laughing:
 - ⚡ Fun fact: ... I have a fish memory
