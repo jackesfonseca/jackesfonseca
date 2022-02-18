@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackesfonseca&theme=dracula">
 </a>
   <a href="https://github.com/jackesfonseca">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackesfonseca&show_icons=true&theme=dracula&line_height=30" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackesfonseca&show_icons=true&theme=dracula&line_height=20" alt="Ankit's github stats"/>
 </a>
 </div>
 
