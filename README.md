@@ -13,7 +13,7 @@
   <h4>Here are some ideas to get you started:</h4>
 
   - :school: I'm currently studing in ... University of Brasilia - FGA, Brasilia, Brazil
-- 🔭 I’m currently working as ... Help Desk
+- 🔭 I’m currently working hard to be a ... Full Stack Developer
 - 🌱 I’m currently learning ... React, Docker, Flask, RPC
 - 👯 I’m looking to collaborate on ... Python, Javascript, Go
 - 💬 Ask me about ... What ever.... :laughing:
