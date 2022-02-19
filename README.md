@@ -10,8 +10,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/53023400/154770896-7cbf514b-38c2-4bc4-a489-d13548ce5fb2.gif' width='200"'>
 <div align="left">
 
-  <h4>Here are some ideas to get you started:</h4>
-
   - :school: I'm currently studing in ... University of Brasilia - FGA, Brasilia, Brazil
 - 🔭 I’m currently working hard to be a ... Full Stack Developer
 - 🌱 I’m currently learning ... React, Docker, Flask, RPC
