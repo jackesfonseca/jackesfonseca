@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Jackes Fonseca </h2>
+<h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Jackes Fonseca </h2>
 
 <h3> An aspiring software engineer always looking for new knowledge and challenges </h3>
 
