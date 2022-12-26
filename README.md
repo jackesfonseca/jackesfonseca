@@ -7,15 +7,14 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]() [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jackes-fonseca-711015152/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jackes_fonseca/) [<img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucianosz7">](https://github.com/jackesfonseca) [<img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/JackesFonseca) [<img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge">](mailto:190030291@aluno.unb.br.com?subject=Hello%20again)
 
 
-<img align='right' src='https://user-images.githubusercontent.com/53023400/154770896-7cbf514b-38c2-4bc4-a489-d13548ce5fb2.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/53023400/154770896-7cbf514b-38c2-4bc4-a489-d13548ce5fb2.gif' width='200'>
 <div align="left">
 
-  - :school: I'm currently studing in ... University of Brasilia - FGA, Brasilia, Brazil
+- :school: I'm currently studing in ... University of Brasilia - FGA, Brasilia, Brazil
 - 🔭 I’m currently working hard to be a ... Full Stack Developer
-- 🌱 I’m currently learning ... React, Docker, Flask, RPC
-- 👯 I’m looking to collaborate on ... Python, Javascript, Go
+- 🌱 I’m currently learning ... React, Docker, Flask, ML
+- 👯 I’m looking to collaborate on ... Python, Javascript
 - 💬 Ask me about ... What ever.... :laughing:
-- ⚡ Fun fact: ... I have a fish memory
 <br/>
 </div>
 
