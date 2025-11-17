@@ -10,7 +10,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/53023400/154770896-7cbf514b-38c2-4bc4-a489-d13548ce5fb2.gif' width='200'>
 <div align="left">
 
-- :school: I'm currently studing in ... University of Brasilia - FGA, Brasilia, Brazil
+- :school: I'm graduated in Software Engineering by University of Brasilia - FGA, Brasilia, Brazil
 - 🔭 I’m currently working hard to be a ... Full Stack Developer
 - 🌱 I’m currently learning ... React, Docker, Flask, ML
 - 👯 I’m looking to collaborate on ... Python, Javascript
